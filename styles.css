@@ -15,10 +15,16 @@
 
 .logo{
     border-radius:25px;
+    background-color: #1f3450;
 }
 
+h3{
+    text-align:center;
+    width: 85%;
+}
 .container-text{
     text-align:center;
+    width: 85%;
 }
 
 
