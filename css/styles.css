@@ -489,7 +489,7 @@ progress {
 }
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   font-weight: 300;
   text-align: center;
 }
@@ -11509,4 +11509,22 @@ html {
 
 .copyright {
   background-color: #1a252f;
+}
+
+.marginTop {
+  margin-top: 50px;
+}
+
+.category {
+  margin-top: 25px;
+  font-size: 1.8rem;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
+
+.catContents{
+  font-size: 1.10rem;
+  font-weight: 300;
+  text-align: center;
 }
